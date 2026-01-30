@@ -23,5 +23,5 @@ I am a Master’s student in Experimental and Empirical Economics, currently com
 - Regression analysis
 - Experimental and observational data analysis
 
-📂 Portfolio Projects
+### 📂 Portfolio Projects
 
