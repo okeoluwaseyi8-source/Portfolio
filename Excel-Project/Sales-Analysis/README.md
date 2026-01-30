@@ -30,7 +30,8 @@ The dashboard allows dynamic filtering by time, country, product, and customer a
 
 
 ## Files
-- [sales_product_customer_analysis.xlsm](sales_product_customer_analysis.xlsm)
+- [Sales, Product & Customer Analysis.xlsm](Sales%2C%20Product%20%26%20Customer%20Analysis.xlsm)
+
 
 
 
