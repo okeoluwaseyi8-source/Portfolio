@@ -1,4 +1,4 @@
-# Financial Loan Analysis Dashboard
+# Financial Loan Analysis
 
 ## Objective
 Analyze loan applications, funded amounts, repayment performance, and borrower risk characteristics to support data-driven lending and risk management decisions.
