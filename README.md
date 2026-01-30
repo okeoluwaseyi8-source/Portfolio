@@ -1,4 +1,4 @@
-# Hello I am Oluwaseyi
+# Hello, I am Oluwaseyi
 
 <a href="https://www.linkedin.com/in/okeoluwaseyimsc/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -8,7 +8,7 @@ I am a Master’s student in Experimental and Empirical Economics, currently com
 ##  Skills
 
 ### Data Analysis & Reporting
-- Excel: Pivot Tables, Dashboards, Advanced Formulas (XLOOKUP, IF, SUMIFS)
+- Excel: Pivot Tables, Power Query, Power Pivot, Dashboards, Advanced Formulas (XLOOKUP, IF, SUMIFS)
 - SQL: Data querying, joins, aggregation, subqueries
 - Power BI: Data modeling, interactive dashboards, KPI tracking
 
@@ -22,4 +22,6 @@ I am a Master’s student in Experimental and Empirical Economics, currently com
 - Descriptive statistics
 - Regression analysis
 - Experimental and observational data analysis
+
+📂 Portfolio Projects
 
