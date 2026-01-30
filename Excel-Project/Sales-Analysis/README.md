@@ -28,12 +28,17 @@ The insights below are based on overall performance with no filters applied and 
 
 The dashboard allows dynamic filtering by time, country, product, and customer attributes to support deeper exploratory analysis.
 
+## Dashboard Preview
+
+### Sales Timeline Analysis
+![Sales Timeline](Images/Time%20Analysis.PNG)
+
+### Product & Customer Analysis
+![Product & Customer](Images/Product%20%26%20Customer%20Dashboards.PNG)
+
 
 ## Files
 - [Sales_Product_Customer_Analysis.xlsm](Sales_Product_Customer_Analysis.xlsm)
-
-
-
 
 
 ## Status
