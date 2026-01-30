@@ -5,7 +5,8 @@
 Analyze sales performance, product trends, and customer behavior to identify key revenue drivers and actionable business insights.
 
 ## Tools Used
-- Excel (Power Query, Power Pivot, Pivot Tables, Dashboards)
+Excel (Power Query, Power Pivot, Pivot Tables, Dashboards, Recorded Macros)
+
 ## Key Analysis
 - Performed time-based analysis of sales, cost, profit, and margin to evaluate overall business performance across years, months, and quarters.
 - Analyzed product-level performance to identify top-performing products, product categories, and pricing segments contributing to profit.
