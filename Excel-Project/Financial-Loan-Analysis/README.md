@@ -26,10 +26,11 @@ Analyze loan applications, funded amounts, repayment performance, and borrower r
 ## Dashboard Preview
 
 ### Loan Summary Dashboard
-![Loan Summary](Images/Loan_Summary.png)
+![Loan Summary Dashboard](Images/Loan%20Summary%20Dashboard.PNG)
 
 ### Loan Overview Dashboard
-![Loan Overview](Images/Loan_Overview.png)
+![Loan Overview Dashboard](Images/Loan%20Overview%20Dashboard.PNG)
+
 
 ## Files
 - [Financial_Loan_Analysis.xlsx](Financial_Loan_Analysis.xlsx)
