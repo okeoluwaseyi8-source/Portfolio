@@ -24,4 +24,7 @@ I am a Master’s student in Experimental and Empirical Economics, currently com
 - Experimental and observational data analysis
 
 ### 📂 Portfolio Projects
+### Excel Projects
+- [Sales Analysis](Excel-Project/sales-analysis)
+
 
