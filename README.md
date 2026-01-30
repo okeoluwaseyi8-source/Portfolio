@@ -29,3 +29,5 @@ I am a Master’s student in Experimental and Empirical Economics, currently com
 - [Financial-Loan-Analysis](Excel-Project/Financial-Loan-Analysis)
 
 
+### SQL Projects
+
