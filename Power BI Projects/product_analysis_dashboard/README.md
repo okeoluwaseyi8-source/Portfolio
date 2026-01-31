@@ -30,3 +30,6 @@ option to extend the analysis to other years using filters.
 ## Tools Used
 - SQL Server (data preparation)
 - Power BI (data modeling and visualization)
+
+[Product Analysis SQL Project](../../SQL-Projects/product-analysis)
+
