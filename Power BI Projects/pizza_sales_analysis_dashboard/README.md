@@ -22,8 +22,14 @@ The data used in this dashboard was prepared using SQL:
 ### Performance Dashboard
 ![Performance Dashboard](Images/Performance%20Dashboard.PNG)
 
-
-
 ## Tools Used
 - SQL (data preparation)
 - Power BI (data modeling and visualization)
+
+## Data Preparation (SQL)
+
+The data used for this dashboard was prepared and analyzed using SQL.
+
+🔗 SQL Analysis:
+../SQL-Projects/pizza-sales-analysis
+
