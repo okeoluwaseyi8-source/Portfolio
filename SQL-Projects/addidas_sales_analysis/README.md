@@ -26,6 +26,7 @@ The full SQL script containing all analysis queries can be found here:
 
 [📄 addidas_sales_analysis.sql](addidas_sales_analysis.sql)
 
+
 ## Analysis Approach
 - Aggregations using `SUM`, `AVG`, `COUNT`
 - Time-based filtering by month, quarter, and year
