@@ -21,7 +21,11 @@ option to extend the analysis to other years using filters.
 - Sales performance differs significantly across countries
 
 ## Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Product Sales Dashboard](Images/Product%20Analysis%20Dashboard.PNG)
+
+### Tooltip View
+![Product Analysis Tooltip](Images/Product%20Analysis%20Tooltip.PNG)
+
 
 ## Tools Used
 - SQL Server (data preparation)
