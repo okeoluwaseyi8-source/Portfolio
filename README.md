@@ -1,4 +1,5 @@
-# Hello, I am Oluwaseyi
+Hello, I’m Oluwaseyi — a Data Analyst turning data into business insights using SQL, Power BI, and Excel.
+
 
 <a href="https://www.linkedin.com/in/okeoluwaseyimsc/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
