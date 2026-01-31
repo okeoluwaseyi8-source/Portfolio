@@ -16,7 +16,7 @@ order volume, average order value, and average items per order.
 ## Project File
 
 ### 🍕 Pizza Sales Analysis (SQL)
-- [View SQL File](pizza-sales-analysis/pizza_sales_analysis.sql)
+[pizza_sales_analysis.sql](pizza_sales_analysis.sql)
 
 ## Status
 Completed
