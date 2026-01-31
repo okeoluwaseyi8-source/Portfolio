@@ -24,9 +24,6 @@ This analysis answers questions such as:
 ## SQL Script
 The full SQL script containing all analysis queries can be found here:
 
-[📄 addidas_sales_analysis.sql](https://github.com/okeoluwaseyi8-source/Portfolio/blob/main/SQL-Projects/addidas_sales_analysis/addidas_sales_analysis.sql)
-
-
 
 ## Analysis Approach
 - Aggregations using `SUM`, `AVG`, `COUNT`
