@@ -16,6 +16,11 @@ The data used in this dashboard was prepared using SQL:
 - Large-size pizzas account for the majority of orders
 
 ## Dashboard Preview
+### Sales Analysis Dashboard
+![Sales Analysis Dashboard](Images/Sales%20Analysis%20Dashboard.PNG)
+
+### Product Performance Dashboard
+![Product Performance Dashboard](Images/Product%20Performance%20Dashboard.PNG)
 
 
 ## Tools Used
