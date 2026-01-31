@@ -36,3 +36,11 @@ This script:
 - Import cleaned data into Power BI
 - Build dashboards for sales trends and profitability
 - Add customer and country-level insights
+
+## Visualization (Power BI)
+
+This SQL-based analysis was used as the data source for a Power BI dashboard:
+
+🔗 Power BI Dashboard:
+https://github.com/okeoluwaseyi8-source/Portfolio/tree/main/Power%20BI%20Projects/product_analysis_dashboard
+
