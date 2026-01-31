@@ -24,7 +24,8 @@ and revenue drivers before visualizing insights in Power BI.
 ## SQL Script
 The SQL script used for data preparation can be found here:
 
-📄 `sql/product_analysis.sql`
+[📄 product-Analysis.sql](product-Analysis.sql)
+
 
 This script:
 - Joins product, sales, and discount tables
