@@ -13,8 +13,10 @@ order volume, average order value, and average items per order.
 - Average Order Value
 - Average Pizzas per Order
 
-## Files
-- queries.sql
+## Project File
+
+### 🍕 Pizza Sales Analysis (SQL)
+- [View SQL File](pizza-sales-analysis/pizza_sales_analysis.sql)
 
 ## Status
 Completed
