@@ -1,4 +1,4 @@
-# Adidas Sales Analysis (SQL)
+# Addidas Sales Analysis (SQL)
 
 ## Project Overview
 This project performs a comprehensive SQL analysis of Adidas sales data for 2021.
