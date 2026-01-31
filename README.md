@@ -39,4 +39,9 @@ Business Analyst, Product Analyst, or Cost Analyst roles where I can contribute 
 
 
 ### SQL Projects
+### SQL Projects
+- [Pizza Sales Analysis](SQL-Projects/pizza_sales_analysis)
+- [Adidas Sales Analysis](SQL-Projects/addidas_sales_analysis)
+- [Product Analysis](SQL-Projects/product-analysis)
+
 
