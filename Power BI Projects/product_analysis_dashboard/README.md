@@ -26,12 +26,13 @@ option to extend the analysis to other years using filters.
 ### Tooltip View
 ![Product Analysis Tooltip](Images/Product%20Analysis%20Tooltip.PNG)
 
-
 ## Tools Used
 - SQL Server (data preparation)
 - Power BI (data modeling and visualization)
 
-Data Preparation (SQL)
+## Data Preparation (SQL)
+
 The data used for this dashboard was prepared and analyzed using SQL.
-[Product Analysis SQL Project](../../SQL-Projects/product-analysis)
+
+🔗[Product Analysis SQL Project](../../SQL-Projects/product-analysis)
 
