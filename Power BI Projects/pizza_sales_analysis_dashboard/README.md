@@ -30,6 +30,7 @@ The data used in this dashboard was prepared using SQL:
 
 The data used for this dashboard was prepared and analyzed using SQL.
 
-🔗 SQL Analysis: [Pizza Sales SQL Project](../../SQL-Projects/pizza-sales-analysis)
+🔗 SQL Analysis: [Pizza Sales SQL Project](../../SQL-Projects/pizza_sales_analysis)
+
 
 
