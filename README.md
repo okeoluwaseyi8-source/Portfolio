@@ -45,8 +45,11 @@ Business Analyst, Product Analyst, or Cost Analyst roles where I can contribute 
 - [Product Analysis](SQL-Projects/product-analysis)
 
 ### Power BI Projects
-- [Pizza Sales Dashboard](Power BI Projects/pizza_sales_analysis_dashboard)
-- [Product Performance Dashboard](Power BI Projects/product_analysis_dashboard)
+### Power BI Projects
+- [Pizza Sales Dashboard](Power%20BI%20Projects/pizza_sales_analysis_dashboard)
+- [Product Performance Dashboard](Power%20BI%20Projects/product_analysis_dashboard)
+
+
 
 
 
