@@ -18,5 +18,10 @@ order volume, average order value, and average items per order.
 ### 🍕 Pizza Sales Analysis (SQL)
 [pizza_sales_analysis.sql](pizza_sales_analysis.sql)
 
-## Status
-Completed
+## Visualization (Power BI)
+
+The results of this SQL analysis were visualized in an interactive Power BI dashboard:
+
+🔗 Power BI Dashboard:
+https://github.com/okeoluwaseyi8-source/Portfolio/tree/main/Power%20BI%20Projects/pizza_sales_analysis_dashboard
+
