@@ -31,5 +31,7 @@ option to extend the analysis to other years using filters.
 - SQL Server (data preparation)
 - Power BI (data modeling and visualization)
 
+Data Preparation (SQL)
+The data used for this dashboard was prepared and analyzed using SQL.
 [Product Analysis SQL Project](../../SQL-Projects/product-analysis)
 
