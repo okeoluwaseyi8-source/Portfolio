@@ -7,7 +7,7 @@ product performance, pricing, and sales trends.
 
 ## Dataset
 - **Source:** Adidas sales dataset
-- **Table:** `Data Sales Addidas`
+- **Table:** `Data Sales Adidas`
 - **Time period:** 2021
 
 ## Tools Used
