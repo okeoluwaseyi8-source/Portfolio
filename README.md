@@ -37,14 +37,11 @@ Business Analyst, Product Analyst, or Cost Analyst roles where I can contribute 
 - [Sales Analysis](Excel-Project/Sales-Analysis)
 - [Financial-Loan-Analysis](Excel-Project/Financial-Loan-Analysis)
 
-
-### SQL Projects
 ### SQL Projects
 - [Pizza Sales Analysis](SQL-Projects/pizza_sales_analysis)
 - [Adidas Sales Analysis](SQL-Projects/addidas_sales_analysis)
 - [Product Analysis](SQL-Projects/product-analysis)
 
-### Power BI Projects
 ### Power BI Projects
 - [Pizza Sales Dashboard](Power%20BI%20Projects/pizza_sales_analysis_dashboard)
 - [Product Analysis Dashboard](Power%20BI%20Projects/product_analysis_dashboard)
