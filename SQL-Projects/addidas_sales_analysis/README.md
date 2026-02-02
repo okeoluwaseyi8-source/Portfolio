@@ -1,12 +1,12 @@
-# Addidas Sales Analysis (SQL)
+# Adidas Sales Analysis (SQL)
 
 ## Project Overview
-This project performs a comprehensive SQL analysis of Addidas sales data for 2021.
+This project performs a comprehensive SQL analysis of Adidas sales data for 2021.
 The analysis answers key business questions related to revenue, profitability,
 product performance, pricing, and sales trends.
 
 ## Dataset
-- **Source:** Addidas sales dataset
+- **Source:** Adidas sales dataset
 - **Table:** `Data Sales Addidas`
 - **Time period:** 2021
 
