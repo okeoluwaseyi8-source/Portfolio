@@ -24,7 +24,7 @@ This analysis answers questions such as:
 ## SQL Script
 The full SQL script containing all analysis queries can be found here
 
-
+[📄 adidas_sales_analysis.sql](adidas_sales_analysis.sql)
 
 
 ## Analysis Approach
